@@ -16,8 +16,7 @@ revisionQuestion:
 ---
 ## Content
 
-Decision trees are like a choose-your-own-adventure book! 
-
+A decision tree is a supervised machine learning model that represents decisions and their possible consequences as a tree of nodes and branches. 
 They help the computer make decisions by asking questions and following different paths based on the answers[1].
 
 ![Decision Tree](https://img.enkipro.com/2aeadba8901778529fd24e8021970385.png)
